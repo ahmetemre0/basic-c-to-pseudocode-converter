@@ -1,4 +1,4 @@
-# Basic C to PseudoCode Convertor
+# Basic C to PseudoCode Converter
 
 This code takes basic and right designed C codes and converts it to the Pseudocode. 
 
